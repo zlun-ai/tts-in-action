@@ -31,23 +31,25 @@
 
 ## 3. TTS录音文本处理
 
-[3.1 中文文本转拼音](https://articles.zsxq.com/id_f4f03z1eks3k.html) - 掌握如何使用非模型方式将中文文本序列转换为拼音序列。
+[3.1 使用Text Normalization处理文本中的时间、分数、数字等](https://articles.zsxq.com/id_ckm3qjukufcr.html) - 掌握中文文本标准化的方法。
 
-[3.2 pypinyin错误拼音修复](https://articles.zsxq.com/id_juqu40pl8vde.html) -掌握修复pypinyin转汉字为拼音时拼音转错的方法。
+[3.2 中文文本转拼音](https://articles.zsxq.com/id_f4f03z1eks3k.html) - 掌握如何使用非模型方式将中文文本序列转换为拼音序列。
 
-[3.3 中文Grapheme与Phoneme](https://articles.zsxq.com/id_lig4xd1cmzl8.html) - 掌握中文Grapheme与Phoneme的关系和处理方法。
+[3.3 pypinyin错误拼音修复](https://articles.zsxq.com/id_juqu40pl8vde.html) -掌握修复pypinyin转汉字为拼音时拼音转错的方法。
 
-[3.4 为什么要把汉语拼音拆分为（声母，韵母音调）的方式？](https://articles.zsxq.com/id_bi2xlibfugs5.html) - 了解TTS中汉语拼音的处理方式。
+[3.4 中文Grapheme与Phoneme](https://articles.zsxq.com/id_lig4xd1cmzl8.html) - 掌握中文Grapheme与Phoneme的关系和处理方法。
 
-3.5 多音字如何处理？
+[3.5 为什么要把汉语拼音拆分为（声母，韵母音调）的方式？](https://articles.zsxq.com/id_bi2xlibfugs5.html) - 了解TTS中汉语拼音的处理方式。
 
-3.6 儿化音如何处理？
+3.6 多音字如何处理？
 
-3.7 特殊音调如何处理？
+3.7 儿化音如何处理？
 
-3.8 如何将汉语拼音转换为音素（Phoneme）
+3.8 特殊音调如何处理？
 
-3.9 如何在生成的音素中增加韵律信息？
+3.9 如何将汉语拼音转换为音素（Phoneme）
+
+3.10 如何在生成的音素中增加韵律信息？
 
 ## 4. TTS音频文件处理
 
