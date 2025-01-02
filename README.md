@@ -37,15 +37,15 @@
 
 [3.3 pypinyin错误拼音修复](https://articles.zsxq.com/id_juqu40pl8vde.html) -掌握修复pypinyin转汉字为拼音时拼音转错的方法。
 
-[3.4 中文Grapheme与Phoneme](https://articles.zsxq.com/id_lig4xd1cmzl8.html) - 掌握中文Grapheme与Phoneme的关系和处理方法。
+[3.4 多音字如何处理？](https://articles.zsxq.com/id_i6spgbgn7owb.html) - 掌握TTS合成语音时，遇到多音字时的处理方法。
 
-[3.5 为什么要把汉语拼音拆分为（声母，韵母音调）的方式？](https://articles.zsxq.com/id_bi2xlibfugs5.html) - 了解TTS中汉语拼音的处理方式。
+3.5 儿化音如何处理？
 
-3.6 多音字如何处理？
+3.6 特殊音调如何处理？
 
-3.7 儿化音如何处理？
+[3.7 中文Grapheme与Phoneme](https://articles.zsxq.com/id_lig4xd1cmzl8.html) - 掌握中文Grapheme与Phoneme的关系和处理方法。
 
-3.8 特殊音调如何处理？
+[3.8 为什么要把汉语拼音拆分为（声母，韵母音调）的方式？](https://articles.zsxq.com/id_bi2xlibfugs5.html) - 了解TTS中汉语拼音的处理方式。
 
 3.9 如何将汉语拼音转换为音素（Phoneme）
 
