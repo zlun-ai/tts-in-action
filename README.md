@@ -66,6 +66,6 @@
 ## 9. 语音合成标记语言 (SSML)
 ## 10.常见问题
 
-[10.1 10.1 可以使用被压缩后的音频文件来训练TTS模型吗？](https://articles.zsxq.com/id_hpwjic5wf55m.html) - 获知能否使用压缩音频构建TTS模型的答案及其原因。
+[10.1 可以使用被压缩后的音频文件来训练TTS模型吗？](https://articles.zsxq.com/id_hpwjic5wf55m.html) - 获知能否使用压缩音频构建TTS模型的答案及其原因。
 
 
