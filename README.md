@@ -47,7 +47,7 @@
 
 [3.8 为什么要把汉语拼音拆分为（声母，韵母音调）的方式？](https://articles.zsxq.com/id_bi2xlibfugs5.html) - 了解TTS中汉语拼音的处理方式。
 
-3.9 如何将汉语拼音转换为音素（Phoneme）
+[3.9 如何将汉语拼音转换为音素（Phoneme）？](https://articles.zsxq.com/id_6qixlk4ggguv.html) - 掌握将拼音转换为对应音素的方法。
 
 3.10 如何在生成的音素中增加韵律信息？
 
@@ -63,6 +63,9 @@
 ## 6. 情感TTS构建
 ## 7. Prompt TTS构建
 ## 8. 超拟人TTS构建
-## 9.常见问题
+## 9. 语音合成标记语言 (SSML)
+## 10.常见问题
+
+[10.1 10.1 可以使用被压缩后的音频文件来训练TTS模型吗？](https://articles.zsxq.com/id_hpwjic5wf55m.html) - 获知能否使用压缩音频构建TTS模型的答案及其原因。
 
 
