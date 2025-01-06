@@ -60,6 +60,9 @@
 4.3 如何获取基频信息（F0）？
 
 ## 5. TTS模型构建
+
+[5.1 TTS模型的两种基本架构](https://articles.zsxq.com/id_pvx2f6ms3rze.html) - 了解TTS的两种架构是什么，它们之间有什么区别。
+
 ## 6. 情感TTS构建
 ## 7. Prompt TTS构建
 ## 8. 超拟人TTS构建
