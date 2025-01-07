@@ -71,4 +71,6 @@
 
 [10.1 可以使用被压缩后的音频文件来训练TTS模型吗？](https://articles.zsxq.com/id_hpwjic5wf55m.html) - 获知能否使用压缩音频构建TTS模型的答案及其原因。
 
+[10.2 怎么解决TTS合成语音时合成语音不能停下来的问题？](https://articles.zsxq.com/id_zxd16p94gkcl.html) - 获取TTS合成语音不能停下来的原因和解决方案。
+
 
