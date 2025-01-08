@@ -61,7 +61,11 @@
 
 ## 5. TTS模型构建
 
+在本章节中，我们将以VITS 2为项目案例讲解如何构建非情感的TTS模型。
+
 [5.1 TTS模型的两种基本架构](https://articles.zsxq.com/id_pvx2f6ms3rze.html) - 了解TTS的两种架构是什么，它们之间有什么区别。
+
+[5.2 训练配置文件构建与解析](https://articles.zsxq.com/id_swt2rsmuaiq6.html) - 掌握构建TTS模型时配置文件的构建与解析过程。
 
 ## 6. 情感TTS构建
 ## 7. Prompt TTS构建
