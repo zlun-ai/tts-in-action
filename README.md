@@ -55,11 +55,13 @@
 
 [4.1 音频采样率（Sample Rate）基础](https://articles.zsxq.com/id_b5d1j92663ve.html) - 了解音频采样率在读音音频信息时的作用。
 
-4.2 如何获取音频Mel谱信息？
+[4.2 音频n_fft, win_length, hop_length基础](https://articles.zsxq.com/id_5qx8x2m1cf0l.html) - 掌握n_fft, win_length, hop_length的意义及设置方式。
 
-4.3 如何获取音量信息（Energy）？
+4.3 如何获取音频Mel谱信息？
 
-4.4 如何获取基频信息（F0）？
+4.4 如何获取音量信息（Energy）？
+
+4.5 如何获取基频信息（F0）？
 
 ## 5. TTS模型构建
 
