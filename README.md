@@ -57,11 +57,13 @@
 
 [4.2 音频n_fft, win_length, hop_length基础](https://articles.zsxq.com/id_5qx8x2m1cf0l.html) - 掌握n_fft, win_length, hop_length的意义及设置方式。
 
-4.3 如何获取音频Mel谱信息？
+[4.3 音频n_mels, f_min, f_max基础](https://articles.zsxq.com/id_fg6jdz64r9qs.html) - 掌握n_mels, f_min, f_max的意义及设置方式。
 
-4.4 如何获取音量信息（Energy）？
+4.4 如何获取音频Mel谱信息？
 
-4.5 如何获取基频信息（F0）？
+4.5 如何获取音量信息（Energy）？
+
+4.6 如何获取基频信息（F0）？
 
 ## 5. TTS模型构建
 
